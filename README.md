@@ -86,12 +86,4 @@ Attendance Management System using Face Recognition/
 ├── mini_app.py                  # Simple GUI application for capturing images
 ├── app.py                       # Streamlit app for attendance visualization
 └── README.md                    # Project documentation
-```
-
----
-
-## Contributing
-Contributions are welcome! If you have suggestions for improvements or additional features, feel free to fork the repository and submit a pull request.
-
----
 
